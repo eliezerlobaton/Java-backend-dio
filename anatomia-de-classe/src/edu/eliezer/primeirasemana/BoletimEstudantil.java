@@ -1,4 +1,4 @@
-// arquivo BoletimEstudantil.java
+package edu.eliezer.primeirasemana;
 
 public class BoletimEstudantil {
   public static void main(String[] args) {
